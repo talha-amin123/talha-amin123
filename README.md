@@ -1,34 +1,41 @@
 # 👋 Hi, I'm Talha Amin
 
-## Data Scientist | MS Business Analytics @ UC Davis
+## Data Scientist | Mrketing Analyst |MS Business Analytics @ UC Davis
 
-I’m passionate about data and analytics and continuously growing in this field by exploring new methods, tools, and problem domains. I enjoy working across data analytics, business analytics, and machine learning, transforming raw, unstructured data into meaningful insights that guide strategy and decision-making. From building predictive models and conducting experiments to interpreting performance drivers, I focus on connecting analytical depth with real-world impact. I’m excited to keep expanding my capabilities in machine learning and scalable analytics systems, constantly pushing myself to learn, build, and improve.
+I’m passionate about data analytics and continuously growing in this field by exploring new methods, tools, and problem domains. I enjoy working across data analytics, business analytics, and machine learning, transforming raw, unstructured data into meaningful insights that guide strategy and decision-making. 
+From building predictive models and conducting experiments to interpreting performance drivers, I focus on connecting analytical depth with real-world impact. 
+
+I’m excited to keep expanding my capabilities in machine learning and scalable analytics systems, constantly pushing myself to learn, build, and improve.
 
 
 ---
 
 📄 For a detailed overview of my experience and projects, please check out:
 
-- [Resume](https://drive.google.com/file/d/1uGYRvnSnSVFWZfz_0Di-ENzYgCeWeEy8/view?usp=drive_link)
+- [Resume](https://drive.google.com/file/d/1zGfQfvj9MasexCAb-1nyKieSgagCrXXu/view?usp=sharing)
 - [LinkedIn](https://www.linkedin.com/in/taamin/)
-- [Portfolio Website](https://talha-amin123.github.io)
+- [Website](https://talha-amin123.github.io)
 
 ---
 
 ## 🛠 Technical Stack
 
-**Languages:**  
-Python | SQL | R  
+**Languages**  
+Python | SQL | R
 
-**Libraries & Frameworks:**  
-pandas | NumPy | scikit-learn | statsmodels  
+**Libraries & Frameworks**  
+pandas | NumPy | scikit-learn | statsmodels | matplotlib | seaborn
 
-**Core Methods:**  
-Regression Modeling | Logistic Regression | Cross-Validation  
-Hypothesis Testing | Experimental Design | Forecasting  
+**Machine Learning & Statistical Methods**  
+Regression Modeling | Logistic Regression | Classification and Clustering | Principal Component Analysis 
+| Feature Engineering | Model Evaluation | Hypothesis Testing | Experimental Design | A/B Testing | Forecasting
 
-**Tools:**  
-Power BI | Git | APIs | Web Scraping  
+**Data Analysis & Marketing Analytics**  
+Customer Segmentation | Marketing Analytics | Cohort Analysis  
+Performance Metrics (CTR, CPC, ROAS) | Behavioral Data Analysis | Sentiment Analysis
+
+**Tools & Technologies**  
+Power BI | Tableau | Git | Jupyter Notebook | APIs | Web Scraping | Advanced Microsoft Excel
 
 ---
 
