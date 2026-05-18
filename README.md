@@ -1,6 +1,6 @@
 # Hi, I'm Talha Amin
 
-## MS Business Analytics @ UC Davis • Data Analyst • Business Analyst • Marketing
+## MS Business Analytics @ UC Davis • Data Analyst • Business Analyst • Marketing Analyst
 
 *I turn raw, unstructured data into meaningful insights that guide strategy and decision-making.*
 
