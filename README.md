@@ -14,7 +14,7 @@ I'm excited to keep expanding my capabilities in machine learning and scalable a
 
 ## Links
 
-[Resume](https://drive.google.com/file/d/1zGfQfvj9MasexCAb-1nyKieSgagCrXXu/view?usp=sharing) • [LinkedIn](https://www.linkedin.com/in/taamin/) • [Website](https://talha-amin123.github.io)
+[Resume]([https://drive.google.com/file/d/1zGfQfvj9MasexCAb-1nyKieSgagCrXXu/view?usp=sharing](https://drive.google.com/file/d/1t-7H8ANKJ4u4OiSdmv1nKZChKgBZPTv8/view?usp=sharing)) • [LinkedIn](https://www.linkedin.com/in/taamin/) • [Website](https://talha-amin123.github.io)
 
 ---
 
