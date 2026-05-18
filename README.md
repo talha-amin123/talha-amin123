@@ -1,6 +1,6 @@
 # Hi, I'm Talha Amin
 
-## MS Business Analytics @ UC Davis • Data Science • Marketing Analytics • Machine Learning
+## MS Business Analytics @ UC Davis • Data Analyst • Business Analyst • Marketing
 
 *I turn raw, unstructured data into meaningful insights that guide strategy and decision-making.*
 
@@ -92,9 +92,9 @@ I'm excited to keep expanding my capabilities in machine learning and scalable a
 
 ## Open To
 
-Data Science • Data Analytics • Marketing Analytics • Machine Learning roles
+Data Scientist • Data Analyst • Business Analyst • Marketing Analyst
 
-Full-time • Santa Clara, CA
+Full-time • San Francisco Bay Area, CA
 
 ---
 
